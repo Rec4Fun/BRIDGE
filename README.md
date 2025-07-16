@@ -1,3 +1,5 @@
+# BRIDGE: Bundle Recommendation via Instruction-Driven Generation
+
 Optimized code written in Flax (a jax deep learning lib)
 
 <p align="center">
